@@ -1,0 +1,807 @@
+{
+  "schema_version": 1,
+  "version": "original-practice-v2",
+  "source": "原创练习材料；非官方完整题库、当季回忆真题或预测题。",
+  "questions": [
+    {
+      "id": "P1-001",
+      "part": 1,
+      "topic": "居住与城市",
+      "text": "What do you like most about the area where you live?",
+      "source": "original"
+    },
+    {
+      "id": "P1-002",
+      "part": 1,
+      "topic": "居住与城市",
+      "text": "Is there anything you would like to change about your home?",
+      "source": "original"
+    },
+    {
+      "id": "P1-003",
+      "part": 1,
+      "topic": "居住与城市",
+      "text": "Do you prefer spending time at home or going out? Why?",
+      "source": "original"
+    },
+    {
+      "id": "P1-004",
+      "part": 1,
+      "topic": "学习与工作",
+      "text": "Which part of your work or studies do you find most interesting?",
+      "source": "original"
+    },
+    {
+      "id": "P1-005",
+      "part": 1,
+      "topic": "学习与工作",
+      "text": "Do you prefer working alone or with other people?",
+      "source": "original"
+    },
+    {
+      "id": "P1-006",
+      "part": 1,
+      "topic": "学习与工作",
+      "text": "What would you like to learn in the future?",
+      "source": "original"
+    },
+    {
+      "id": "P1-007",
+      "part": 1,
+      "topic": "爱好与闲暇",
+      "text": "What do you usually do when you have some free time?",
+      "source": "original"
+    },
+    {
+      "id": "P1-008",
+      "part": 1,
+      "topic": "爱好与闲暇",
+      "text": "Have your hobbies changed since you were a child?",
+      "source": "original"
+    },
+    {
+      "id": "P1-009",
+      "part": 1,
+      "topic": "爱好与闲暇",
+      "text": "Is there a new hobby you would like to try?",
+      "source": "original"
+    },
+    {
+      "id": "P1-010",
+      "part": 1,
+      "topic": "科技与沟通",
+      "text": "What do you use your phone for most often?",
+      "source": "original"
+    },
+    {
+      "id": "P1-011",
+      "part": 1,
+      "topic": "科技与沟通",
+      "text": "Do you prefer sending messages or making phone calls?",
+      "source": "original"
+    },
+    {
+      "id": "P1-012",
+      "part": 1,
+      "topic": "科技与沟通",
+      "text": "Is there a piece of technology you find difficult to use?",
+      "source": "original"
+    },
+    {
+      "id": "P1-013",
+      "part": 1,
+      "topic": "旅行与交通",
+      "text": "How do you usually travel around your town or city?",
+      "source": "original"
+    },
+    {
+      "id": "P1-014",
+      "part": 1,
+      "topic": "旅行与交通",
+      "text": "Do you enjoy planning trips?",
+      "source": "original"
+    },
+    {
+      "id": "P1-015",
+      "part": 1,
+      "topic": "旅行与交通",
+      "text": "What kind of place would you like to visit next?",
+      "source": "original"
+    },
+    {
+      "id": "P1-016",
+      "part": 1,
+      "topic": "自然与环境",
+      "text": "How often do you spend time outdoors?",
+      "source": "original"
+    },
+    {
+      "id": "P1-017",
+      "part": 1,
+      "topic": "自然与环境",
+      "text": "What kind of weather do you enjoy most?",
+      "source": "original"
+    },
+    {
+      "id": "P1-018",
+      "part": 1,
+      "topic": "自然与环境",
+      "text": "Is there a natural place near your home that you like?",
+      "source": "original"
+    },
+    {
+      "id": "P1-019",
+      "part": 1,
+      "topic": "饮食与生活",
+      "text": "What food do you enjoy eating most?",
+      "source": "original"
+    },
+    {
+      "id": "P1-020",
+      "part": 1,
+      "topic": "饮食与生活",
+      "text": "Do you like cooking for yourself?",
+      "source": "original"
+    },
+    {
+      "id": "P1-021",
+      "part": 1,
+      "topic": "饮食与生活",
+      "text": "Have your eating habits changed in recent years?",
+      "source": "original"
+    },
+    {
+      "id": "P1-022",
+      "part": 1,
+      "topic": "人物与关系",
+      "text": "How do you usually keep in touch with your friends?",
+      "source": "original"
+    },
+    {
+      "id": "P1-023",
+      "part": 1,
+      "topic": "人物与关系",
+      "text": "Do you enjoy meeting new people?",
+      "source": "original"
+    },
+    {
+      "id": "P1-024",
+      "part": 1,
+      "topic": "人物与关系",
+      "text": "What do you like doing with your family or friends?",
+      "source": "original"
+    },
+    {
+      "id": "P1-025",
+      "part": 1,
+      "topic": "文化与媒体",
+      "text": "What kinds of films or programmes do you enjoy watching?",
+      "source": "original"
+    },
+    {
+      "id": "P1-026",
+      "part": 1,
+      "topic": "文化与媒体",
+      "text": "Do you prefer reading on a screen or on paper?",
+      "source": "original"
+    },
+    {
+      "id": "P1-027",
+      "part": 1,
+      "topic": "文化与媒体",
+      "text": "How do you usually find out about local events?",
+      "source": "original"
+    },
+    {
+      "id": "P1-028",
+      "part": 1,
+      "topic": "决定与变化",
+      "text": "Do you like making plans for your day?",
+      "source": "original"
+    },
+    {
+      "id": "P1-029",
+      "part": 1,
+      "topic": "决定与变化",
+      "text": "What do you do when your plans suddenly change?",
+      "source": "original"
+    },
+    {
+      "id": "P1-030",
+      "part": 1,
+      "topic": "决定与变化",
+      "text": "Is there a daily habit you would like to change?",
+      "source": "original"
+    },
+    {
+      "id": "P2-001",
+      "part": 2,
+      "topic": "居住与城市",
+      "text": "Describe a place in your town or city where you enjoy spending time.",
+      "source": "original",
+      "points": [
+        "where it is",
+        "what you usually do there",
+        "who you go there with"
+      ],
+      "explain": "why you enjoy spending time in this place.",
+      "closing": [
+        "Would you like to take someone else to this place?",
+        "Has this place changed since you first visited it?"
+      ],
+      "related": [
+        "P3-001",
+        "P3-002",
+        "P3-021",
+        "P3-022",
+        "P3-023"
+      ]
+    },
+    {
+      "id": "P2-002",
+      "part": 2,
+      "topic": "学习与工作",
+      "text": "Describe a useful skill you learned from another person.",
+      "source": "original",
+      "points": [
+        "what the skill was",
+        "who taught you",
+        "how you learned it"
+      ],
+      "explain": "how this skill has been useful to you.",
+      "closing": [
+        "Do you still use this skill regularly?",
+        "Would you like to teach this skill to someone else?"
+      ],
+      "related": [
+        "P3-003",
+        "P3-004",
+        "P3-024",
+        "P3-025",
+        "P3-026"
+      ]
+    },
+    {
+      "id": "P2-003",
+      "part": 2,
+      "topic": "爱好与闲暇",
+      "text": "Describe an activity you tried for the first time and enjoyed.",
+      "source": "original",
+      "points": [
+        "what the activity was",
+        "when and where you tried it",
+        "who was with you"
+      ],
+      "explain": "what made the experience enjoyable.",
+      "closing": [
+        "Would you like to do this activity again?",
+        "Was it easier or harder than you expected?"
+      ],
+      "related": [
+        "P3-005",
+        "P3-006",
+        "P3-027",
+        "P3-028",
+        "P3-029"
+      ]
+    },
+    {
+      "id": "P2-004",
+      "part": 2,
+      "topic": "科技与沟通",
+      "text": "Describe a time when technology helped you solve a problem.",
+      "source": "original",
+      "points": [
+        "what the problem was",
+        "what technology you used",
+        "how you used it"
+      ],
+      "explain": "why it was helpful in that situation.",
+      "closing": [
+        "Have you used the same technology since then?",
+        "Would you recommend it to someone with a similar problem?"
+      ],
+      "related": [
+        "P3-007",
+        "P3-008",
+        "P3-030",
+        "P3-031",
+        "P3-032"
+      ]
+    },
+    {
+      "id": "P2-005",
+      "part": 2,
+      "topic": "旅行与交通",
+      "text": "Describe a journey that did not go as planned.",
+      "source": "original",
+      "points": [
+        "where you were going",
+        "who you were travelling with",
+        "what happened during the journey"
+      ],
+      "explain": "how you dealt with the unexpected situation.",
+      "closing": [
+        "Would you make the same journey again?",
+        "Did the experience change the way you plan journeys?"
+      ],
+      "related": [
+        "P3-009",
+        "P3-010",
+        "P3-033",
+        "P3-034",
+        "P3-035"
+      ]
+    },
+    {
+      "id": "P2-006",
+      "part": 2,
+      "topic": "自然与环境",
+      "text": "Describe an outdoor place that made a strong impression on you.",
+      "source": "original",
+      "points": [
+        "where the place was",
+        "when you visited it",
+        "what you saw or did there"
+      ],
+      "explain": "why you still remember this place.",
+      "closing": [
+        "Would you like to visit this place again?",
+        "Would you recommend it to a friend?"
+      ],
+      "related": [
+        "P3-011",
+        "P3-012",
+        "P3-036",
+        "P3-037",
+        "P3-038"
+      ]
+    },
+    {
+      "id": "P2-007",
+      "part": 2,
+      "topic": "饮食与生活",
+      "text": "Describe a meal you shared with other people that you remember well.",
+      "source": "original",
+      "points": [
+        "when and where the meal took place",
+        "who you ate with",
+        "what you ate"
+      ],
+      "explain": "why this meal was memorable.",
+      "closing": [
+        "Would you like to have a similar meal again?",
+        "Do you still see the people who were there?"
+      ],
+      "related": [
+        "P3-013",
+        "P3-014",
+        "P3-039",
+        "P3-040",
+        "P3-041"
+      ]
+    },
+    {
+      "id": "P2-008",
+      "part": 2,
+      "topic": "人物与关系",
+      "text": "Describe a person who encouraged you to do something difficult.",
+      "source": "original",
+      "points": [
+        "who the person was",
+        "what you were trying to do",
+        "how the person encouraged you"
+      ],
+      "explain": "how their support affected you.",
+      "closing": [
+        "Are you still in touch with this person?",
+        "Have you thanked this person for their help?"
+      ],
+      "related": [
+        "P3-015",
+        "P3-016",
+        "P3-042",
+        "P3-043",
+        "P3-044"
+      ]
+    },
+    {
+      "id": "P2-009",
+      "part": 2,
+      "topic": "文化与媒体",
+      "text": "Describe a book, film or programme that changed the way you thought about something.",
+      "source": "original",
+      "points": [
+        "what it was",
+        "when you read or watched it",
+        "what it was about"
+      ],
+      "explain": "how it changed your thinking.",
+      "closing": [
+        "Would you recommend it to other people?",
+        "Would you read or watch it again?"
+      ],
+      "related": [
+        "P3-017",
+        "P3-018",
+        "P3-045",
+        "P3-046",
+        "P3-047"
+      ]
+    },
+    {
+      "id": "P2-010",
+      "part": 2,
+      "topic": "决定与变化",
+      "text": "Describe a decision you made that led to a positive change in your life.",
+      "source": "original",
+      "points": [
+        "what the decision was",
+        "why you made it",
+        "what happened afterwards"
+      ],
+      "explain": "why you think this was a good decision.",
+      "closing": [
+        "Would you make the same decision again?",
+        "Did anyone help you make this decision?"
+      ],
+      "related": [
+        "P3-019",
+        "P3-020",
+        "P3-048",
+        "P3-049",
+        "P3-050"
+      ]
+    },
+    {
+      "id": "P3-001",
+      "part": 3,
+      "topic": "居住与城市",
+      "text": "What makes a city a good place to live?",
+      "source": "original"
+    },
+    {
+      "id": "P3-002",
+      "part": 3,
+      "topic": "居住与城市",
+      "text": "Should cities invest more in public spaces or in housing? Why?",
+      "source": "original"
+    },
+    {
+      "id": "P3-003",
+      "part": 3,
+      "topic": "学习与工作",
+      "text": "What skills should schools teach to prepare young people for work?",
+      "source": "original"
+    },
+    {
+      "id": "P3-004",
+      "part": 3,
+      "topic": "学习与工作",
+      "text": "Why do some people keep learning new skills throughout their lives?",
+      "source": "original"
+    },
+    {
+      "id": "P3-005",
+      "part": 3,
+      "topic": "爱好与闲暇",
+      "text": "Why is it important for people to have interests outside work?",
+      "source": "original"
+    },
+    {
+      "id": "P3-006",
+      "part": 3,
+      "topic": "爱好与闲暇",
+      "text": "How can communities encourage people to try new activities?",
+      "source": "original"
+    },
+    {
+      "id": "P3-007",
+      "part": 3,
+      "topic": "科技与沟通",
+      "text": "How has technology changed the way people solve everyday problems?",
+      "source": "original"
+    },
+    {
+      "id": "P3-008",
+      "part": 3,
+      "topic": "科技与沟通",
+      "text": "What might people lose when they rely too much on technology?",
+      "source": "original"
+    },
+    {
+      "id": "P3-009",
+      "part": 3,
+      "topic": "旅行与交通",
+      "text": "How can cities make public transport more attractive?",
+      "source": "original"
+    },
+    {
+      "id": "P3-010",
+      "part": 3,
+      "topic": "旅行与交通",
+      "text": "What can people learn from travelling to unfamiliar places?",
+      "source": "original"
+    },
+    {
+      "id": "P3-011",
+      "part": 3,
+      "topic": "自然与环境",
+      "text": "Why should natural areas be protected from development?",
+      "source": "original"
+    },
+    {
+      "id": "P3-012",
+      "part": 3,
+      "topic": "自然与环境",
+      "text": "Who should take more responsibility for protecting the environment: individuals or governments?",
+      "source": "original"
+    },
+    {
+      "id": "P3-013",
+      "part": 3,
+      "topic": "饮食与生活",
+      "text": "Why do shared meals play an important role in some communities?",
+      "source": "original"
+    },
+    {
+      "id": "P3-014",
+      "part": 3,
+      "topic": "饮食与生活",
+      "text": "How have busy lifestyles affected the way people eat?",
+      "source": "original"
+    },
+    {
+      "id": "P3-015",
+      "part": 3,
+      "topic": "人物与关系",
+      "text": "Why can encouragement from other people be important?",
+      "source": "original"
+    },
+    {
+      "id": "P3-016",
+      "part": 3,
+      "topic": "人物与关系",
+      "text": "What qualities make someone a good mentor?",
+      "source": "original"
+    },
+    {
+      "id": "P3-017",
+      "part": 3,
+      "topic": "文化与媒体",
+      "text": "How can stories influence the way people understand the world?",
+      "source": "original"
+    },
+    {
+      "id": "P3-018",
+      "part": 3,
+      "topic": "文化与媒体",
+      "text": "Should schools use films and other media more often in teaching?",
+      "source": "original"
+    },
+    {
+      "id": "P3-019",
+      "part": 3,
+      "topic": "决定与变化",
+      "text": "Why do some people find it difficult to make important decisions?",
+      "source": "original"
+    },
+    {
+      "id": "P3-020",
+      "part": 3,
+      "topic": "决定与变化",
+      "text": "Is advice from other people always helpful when making a decision?",
+      "source": "original"
+    },
+    {
+      "id": "P3-021",
+      "part": 3,
+      "topic": "居住与城市",
+      "text": "Why might people of different ages need different public spaces?",
+      "source": "original"
+    },
+    {
+      "id": "P3-022",
+      "part": 3,
+      "topic": "居住与城市",
+      "text": "How do you think city life will change in the future?",
+      "source": "original"
+    },
+    {
+      "id": "P3-023",
+      "part": 3,
+      "topic": "居住与城市",
+      "text": "What problems can arise when a city grows too quickly?",
+      "source": "original"
+    },
+    {
+      "id": "P3-024",
+      "part": 3,
+      "topic": "学习与工作",
+      "text": "How is learning at work different from learning at school?",
+      "source": "original"
+    },
+    {
+      "id": "P3-025",
+      "part": 3,
+      "topic": "学习与工作",
+      "text": "Has technology made professional training more effective?",
+      "source": "original"
+    },
+    {
+      "id": "P3-026",
+      "part": 3,
+      "topic": "学习与工作",
+      "text": "Should employers pay for their employees to learn new skills?",
+      "source": "original"
+    },
+    {
+      "id": "P3-027",
+      "part": 3,
+      "topic": "爱好与闲暇",
+      "text": "Do children and adults benefit from leisure activities in different ways?",
+      "source": "original"
+    },
+    {
+      "id": "P3-028",
+      "part": 3,
+      "topic": "爱好与闲暇",
+      "text": "Why do some hobbies become fashionable and then disappear?",
+      "source": "original"
+    },
+    {
+      "id": "P3-029",
+      "part": 3,
+      "topic": "爱好与闲暇",
+      "text": "Should local governments provide more free leisure facilities?",
+      "source": "original"
+    },
+    {
+      "id": "P3-030",
+      "part": 3,
+      "topic": "科技与沟通",
+      "text": "Has digital communication improved relationships between people?",
+      "source": "original"
+    },
+    {
+      "id": "P3-031",
+      "part": 3,
+      "topic": "科技与沟通",
+      "text": "Why might older people find new technology difficult to use?",
+      "source": "original"
+    },
+    {
+      "id": "P3-032",
+      "part": 3,
+      "topic": "科技与沟通",
+      "text": "How should schools prepare children to use technology responsibly?",
+      "source": "original"
+    },
+    {
+      "id": "P3-033",
+      "part": 3,
+      "topic": "旅行与交通",
+      "text": "What effects can tourism have on local communities?",
+      "source": "original"
+    },
+    {
+      "id": "P3-034",
+      "part": 3,
+      "topic": "旅行与交通",
+      "text": "Why might some people prefer travelling alone?",
+      "source": "original"
+    },
+    {
+      "id": "P3-035",
+      "part": 3,
+      "topic": "旅行与交通",
+      "text": "How could transport systems change in the future?",
+      "source": "original"
+    },
+    {
+      "id": "P3-036",
+      "part": 3,
+      "topic": "自然与环境",
+      "text": "How can schools help children understand environmental issues?",
+      "source": "original"
+    },
+    {
+      "id": "P3-037",
+      "part": 3,
+      "topic": "自然与环境",
+      "text": "Why do people sometimes fail to act on environmental concerns?",
+      "source": "original"
+    },
+    {
+      "id": "P3-038",
+      "part": 3,
+      "topic": "自然与环境",
+      "text": "Can economic development and environmental protection happen together?",
+      "source": "original"
+    },
+    {
+      "id": "P3-039",
+      "part": 3,
+      "topic": "饮食与生活",
+      "text": "Why do traditional foods remain important to some people?",
+      "source": "original"
+    },
+    {
+      "id": "P3-040",
+      "part": 3,
+      "topic": "饮食与生活",
+      "text": "Should schools teach children how to prepare meals?",
+      "source": "original"
+    },
+    {
+      "id": "P3-041",
+      "part": 3,
+      "topic": "饮食与生活",
+      "text": "How can communities encourage healthier eating habits?",
+      "source": "original"
+    },
+    {
+      "id": "P3-042",
+      "part": 3,
+      "topic": "人物与关系",
+      "text": "Has the way people maintain friendships changed in recent years?",
+      "source": "original"
+    },
+    {
+      "id": "P3-043",
+      "part": 3,
+      "topic": "人物与关系",
+      "text": "Why might advice from a stranger sometimes be useful?",
+      "source": "original"
+    },
+    {
+      "id": "P3-044",
+      "part": 3,
+      "topic": "人物与关系",
+      "text": "Should young people always follow advice from older people?",
+      "source": "original"
+    },
+    {
+      "id": "P3-045",
+      "part": 3,
+      "topic": "文化与媒体",
+      "text": "What responsibilities do media creators have towards their audiences?",
+      "source": "original"
+    },
+    {
+      "id": "P3-046",
+      "part": 3,
+      "topic": "文化与媒体",
+      "text": "How can local cultural traditions be preserved?",
+      "source": "original"
+    },
+    {
+      "id": "P3-047",
+      "part": 3,
+      "topic": "文化与媒体",
+      "text": "Why do people sometimes prefer stories from other cultures?",
+      "source": "original"
+    },
+    {
+      "id": "P3-048",
+      "part": 3,
+      "topic": "决定与变化",
+      "text": "How is decision-making different for individuals and organisations?",
+      "source": "original"
+    },
+    {
+      "id": "P3-049",
+      "part": 3,
+      "topic": "决定与变化",
+      "text": "Why might people resist changes that could benefit them?",
+      "source": "original"
+    },
+    {
+      "id": "P3-050",
+      "part": 3,
+      "topic": "决定与变化",
+      "text": "Should children be encouraged to make their own decisions?",
+      "source": "original"
+    }
+  ]
+}

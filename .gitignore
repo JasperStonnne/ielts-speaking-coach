@@ -1,0 +1,7 @@
+user-learning/
+*.bak
+*.lock
+__pycache__/
+*.pyc
+.DS_Store
+work/

@@ -1,0 +1,4 @@
+interface:
+  display_name: "雅思口语陪练"
+  short_description: "用固定题库与学习档案组织雅思口语训练，支持断点续接和自动保存"
+  default_prompt: "使用 $ielts-speaking-coach 读取我的学习档案，开始或继续今天的雅思口语练习。"

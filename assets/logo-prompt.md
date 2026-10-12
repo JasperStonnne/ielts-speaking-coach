@@ -1,0 +1,5 @@
+# Logo 设计提示词
+
+生成方式：内置 imagegen。
+
+Use case: logo-brand. Create one polished square logo for the open-source project IELTS Speaking Coach, for the top of its GitHub README. Visual idea: a single elegant, flowing geometric ribbon of lines connects a speech bubble, an audio waveform and a subtle loop suggesting continuity across conversations. Invent a distinctive compact symbol, with generous negative space and confident geometry. Style: cool, creative futuristic line art; precise clean monoline contours, restrained luminous accent, crisp edges, sophisticated and memorable, readable even at small icon size. Use a deep ink background so the luminous line work has strong contrast; keep the symbol centered with comfortable margins. Flat graphic design with only a very subtle glow, no 3D rendering, no mockup, no photographic texture, no decorative clutter, no stock microphone icon, no national flags, no official IELTS or OpenAI logo resemblance. No lettering, words, captions, watermarks or additional symbols. Output one finished logo, not a sheet of alternatives.
